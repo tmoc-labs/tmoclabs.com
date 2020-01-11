@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://terranmoccasin.github.io/tmoclabs.com"
 languageCode = "en-us"
 title = "TMOC Labs"
 theme = "hugo-theme-hello-friend-ng"
@@ -17,7 +17,7 @@ archetypeDir = "archetypes"
 contentDir   = "content"
 dataDir      = "data"
 layoutDir    = "layouts"
-publishDir   = "public"
+publishDir   = "docs"
 
 buildDrafts  = false
 buildFuture  = false
