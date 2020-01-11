@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "TMOC Labs"
 theme = "hugo-theme-hello-friend-ng"
 
 DefaultContentLanguage = "en"
@@ -57,7 +57,7 @@ disableHugoGeneratorInject = false
   keywords = ""
   images = [""]
 
-  homeSubtitle = "Hello Friend NG"
+  homeSubtitle = "Silicon Valley Meets Entertainment & Music Tech."
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   # gitUrl = ""
@@ -87,40 +87,40 @@ disableHugoGeneratorInject = false
     theme = "#252627"
 
   [params.logo]
-    logoText     = "$ cd /home/"
+    logoText     = "TMOC Labs"
     logoHomeLink = "/"
     # Set to a valid CSS color to change the cursor in the logo.
-    # logoColor    = "#67a2c9"
+    logoColor    = "#67a2c9"
 
   # Social icons
-  [[params.social]]
-    name = "twitter"
-    url  = "https://twitter.com/"
-
-  [[params.social]]
-    name = "email"
-    url  = "mailto:nobody@example.com"
-
-  [[params.social]]
-    name = "github"
-    url  = "https://github.com/"
+  # [[params.social]]
+  #   name = "twitter"
+  #   url  = "https://twitter.com/terranmoccasin"
 
   [[params.social]]
     name = "linkedin"
-    url  = "https://www.linkedin.com/"
+    url  = "https://www.linkedin.com/in/mqhwang"
 
   [[params.social]]
-    name = "stackoverflow"
-    url  = "https://www.stackoverflow.com/"
+    name = "github"
+    url  = "https://github.com/terranmoccasin"
+
+  [[params.social]]
+    name="instagram"
+    url="https://instagram.com/terranmoccasin"
+
+  [[params.social]]
+    name = "email"
+    url  = "mailto:inquiries@tmoclabs.com"
 
 [languages]
   [languages.en]
-    subtitle  = "Hello Friend NG Theme"
+    subtitle  = "Creative Software"
     weight    = 1
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
   [languages.fr]
-    subtitle  = "Hello Friend NG Theme"
+    subtitle  = "Creative Software"
     weight    = 2
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
@@ -129,7 +129,7 @@ disableHugoGeneratorInject = false
     identifier = "about"
     name       = "About"
     url        = "about/"
-  [[menu.main]]
-    identifier = "posts"
-    name       = "Posts"
-    url        = "posts/"
+  # [[menu.main]]
+  #   identifier = "posts"
+  #   name       = "Posts"
+  #   url        = "posts/"
