@@ -1,4 +1,4 @@
-baseURL = "https://tmoclabs.com/"
+baseURL = "https://www.tmoclabs.com/"
 languageCode = "en-us"
 title = "TMOC Labs"
 theme = "hugo-theme-hello-friend-ng"
