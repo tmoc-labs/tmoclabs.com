@@ -3,50 +3,50 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://tmoclabs.com/about/</loc>
+    <loc>https://www.tmoclabs.com/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tmoclabs.com/</loc>
+    <loc>https://www.tmoclabs.com/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://tmoclabs.com/fr/"
+                href="https://www.tmoclabs.com/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tmoclabs.com/"
+                href="https://www.tmoclabs.com/"
                 />
   </url>
   
   <url>
-    <loc>https://tmoclabs.com/categories/</loc>
+    <loc>https://www.tmoclabs.com/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://tmoclabs.com/fr/categories/"
+                href="https://www.tmoclabs.com/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tmoclabs.com/categories/"
+                href="https://www.tmoclabs.com/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://tmoclabs.com/tags/</loc>
+    <loc>https://www.tmoclabs.com/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://tmoclabs.com/fr/tags/"
+                href="https://www.tmoclabs.com/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tmoclabs.com/tags/"
+                href="https://www.tmoclabs.com/tags/"
                 />
   </url>
   
