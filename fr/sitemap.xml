@@ -3,44 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.tmoclabs.com/fr/categories/</loc>
+    <loc>https://tmoclabs.com/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.tmoclabs.com/categories/"
+                href="https://tmoclabs.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://www.tmoclabs.com/fr/categories/"
+                href="https://tmoclabs.com/fr/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://www.tmoclabs.com/fr/tags/</loc>
+    <loc>https://tmoclabs.com/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.tmoclabs.com/tags/"
+                href="https://tmoclabs.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://www.tmoclabs.com/fr/tags/"
+                href="https://tmoclabs.com/fr/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://www.tmoclabs.com/fr/</loc>
+    <loc>https://tmoclabs.com/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.tmoclabs.com/"
+                href="https://tmoclabs.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://www.tmoclabs.com/fr/"
+                href="https://tmoclabs.com/fr/"
                 />
   </url>
   
