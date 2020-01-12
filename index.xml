@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TMOC Labs</title>
-    <link>https://terranmoccasin.github.io/tmoclabs.com/</link>
+    <link>https://tmoclabs.com/</link>
     <description>Recent content on TMOC Labs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://terranmoccasin.github.io/tmoclabs.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tmoclabs.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://terranmoccasin.github.io/tmoclabs.com/about/</link>
+      <link>https://tmoclabs.com/about/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://terranmoccasin.github.io/tmoclabs.com/about/</guid>
+      <guid>https://tmoclabs.com/about/</guid>
       <description>A boutique software engineering company focused on bringing Silicon Valley solutions to the Music and Entertainment Technology industry.
 Portfolio  www.studiodmi.com www.ensemble.fm www.hermanitolabel.com  Contact For business inquiries, please reach out to inquiries@tmoclabs.com.</description>
     </item>
