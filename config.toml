@@ -1,4 +1,4 @@
-baseURL = "https://terranmoccasin.github.io/tmoclabs.com/"
+baseURL = "https://tmoclabs.com/"
 languageCode = "en-us"
 title = "TMOC Labs"
 theme = "hugo-theme-hello-friend-ng"
