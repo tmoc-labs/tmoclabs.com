@@ -4,23 +4,17 @@
     <title>TMOC Labs</title>
     <link>https://tmoclabs.com/</link>
     <description>Recent content on TMOC Labs</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <generator>Hugo</generator>
+    <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://tmoclabs.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://tmoclabs.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://tmoclabs.com/about/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://tmoclabs.com/about/</guid>
-      <description>A boutique software engineering company focused on bringing Silicon Valley solutions to the Music and Entertainment Technology industry.
-Portfolio  www.studiodmi.com www.ensemble.fm www.hermanitolabel.com  Contact For business inquiries, please reach out to inquiries@tmoclabs.com.</description>
+      <description>&lt;p&gt;A boutique &lt;strong&gt;software engineering&lt;/strong&gt; company focused on bringing &lt;strong&gt;Silicon Valley&lt;/strong&gt; solutions to the &lt;strong&gt;Music, Entertainment, and Blockchain&lt;/strong&gt; industries.&lt;/p&gt;&#xA;&lt;h4 id=&#34;portfolio&#34;&gt;Portfolio&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://studiodmi.com&#34;&gt;www.studiodmi.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://ensemble.fm&#34;&gt;www.ensemble.fm&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://hermanitolabel.com&#34;&gt;www.hermanitolabel.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;contact&#34;&gt;Contact&lt;/h4&gt;&#xA;&lt;p&gt;For business inquiries, please reach out to &lt;a href=&#34;mailto:inquiries@tmoclabs.com&#34;&gt;inquiries@tmoclabs.com&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

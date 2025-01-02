@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://tmoclabs.com/about/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <loc>https://tmoclabs.com/posts/</loc>
+    <lastmod>2020-01-11T00:28:32-08:00</lastmod>
+  </url><url>
     <loc>https://tmoclabs.com/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-11T00:28:32-08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -20,9 +17,10 @@
                 hreflang="en"
                 href="https://tmoclabs.com/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://tmoclabs.com/about/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://tmoclabs.com/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -34,9 +32,7 @@
                 hreflang="en"
                 href="https://tmoclabs.com/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tmoclabs.com/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -49,5 +45,4 @@
                 href="https://tmoclabs.com/tags/"
                 />
   </url>
-  
 </urlset>
