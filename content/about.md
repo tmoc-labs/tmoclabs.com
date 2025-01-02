@@ -6,13 +6,14 @@ aliases = ["about-us","about","contact"]
   name = "Michael Hwang"
 +++
 
-A boutique **software engineering** company focused on bringing **Silicon Valley** solutions to the **Music and Entertainment Technology** industry.
+A boutique **software engineering** company focused on bringing **Silicon Valley** solutions to the **Music, Entertainment, and Blockchain** industries.
 
 #### Portfolio
 
-* [www.studiodmi.com](https://studiodmi.com)
-* [www.ensemble.fm](http://ensemble.fm)
-* [www.hermanitolabel.com](https://hermanitolabel.com)
+- [www.studiodmi.com](https://studiodmi.com)
+- [www.ensemble.fm](http://ensemble.fm)
+- [www.hermanitolabel.com](https://hermanitolabel.com)
 
 #### Contact
+
 For business inquiries, please reach out to inquiries@tmoclabs.com.
