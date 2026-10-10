@@ -19,7 +19,12 @@ echo "Removing existing files"
 rm -rf public/*
 
 echo "Generating site"
-hugo
+git submodule update --init
+if ! hugo || [ ! -f public/index.html ]
+then
+    echo "Hugo build failed. Not publishing."
+    exit 1;
+fi
 
 echo "Updating gh-pages branch"
 cd public && git add --all && git commit -m "Publishing to gh-pages (publish.sh)"
