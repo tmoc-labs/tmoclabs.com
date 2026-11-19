@@ -97,16 +97,8 @@ disableHugoGeneratorInject = false
   #   url  = "https://twitter.com/terranmoccasin"
 
   [[params.social]]
-    name = "linkedin"
-    url  = "https://www.linkedin.com/in/mqhwang"
-
-  [[params.social]]
     name = "github"
     url  = "https://github.com/terranmoccasin"
-
-  [[params.social]]
-    name="instagram"
-    url="https://instagram.com/terranmoccasin"
 
   [[params.social]]
     name = "email"
